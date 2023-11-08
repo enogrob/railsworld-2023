@@ -1,5 +1,5 @@
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
@@ -15,4 +15,5 @@ Learn everything you need to about the subject of this `Conf`.
 
 ## Topics
 ```
+[x] The Future of Rails as a Full-Stack Framework powered by Hotwire
 ```
